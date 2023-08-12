@@ -3,7 +3,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm clockwork Z</h1>
+<h1 align="center">-clockworkZ-</h1>
 <h3 align="center">libras y mas</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tr4pst4rs&label=Profile%20views&color=0e75b6&style=flat" alt="tr4pst4rs" /> </p>
